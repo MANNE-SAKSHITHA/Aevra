@@ -1,0 +1,24 @@
+# Environment
+backend/.env
+frontend/.env.local
+
+# Python
+backend/.venv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Database
+*.db
+
+# Storage
+backend/storage/
+storage/
+
+# Next.js
+.next/
+node_modules/
+
+# Vercel
+.vercel/
